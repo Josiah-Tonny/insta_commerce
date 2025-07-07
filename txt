@@ -1,0 +1,23 @@
+970@WIN-AQAS3HBME6H MINGW64 ~/PYTHON/insta_commerce (master)
+$ npm install @floating-ui/react@^1.5.3
+npm error code ETARGET
+npm error notarget No matching version found for @floating-ui/react@^1.5.3.
+npm error notarget In most cases you or one of your dependencies are requesting
+npm error notarget a package version that doesn't exist.
+npm error A complete log of this run can be found in: C:\Users\Administrator\AppData\Local\npm-cache\_logs\2025-06-25T19_50_27_233Z-debug-0.log
+
+970@WIN-AQAS3HBME6H MINGW64 ~/PYTHON/insta_commerce (master)
+$ npm install @stripe/stripe-js@^1.66.0
+npm error code ETARGET
+npm error notarget No matching version found for @stripe/stripe-js@^1.66.0.
+npm error notarget In most cases you or one of your dependencies are requesting
+npm error notarget a package version that doesn't exist.
+npm error A complete log of this run can be found in: C:\Users\Administrator\AppData\Local\npm-cache\_logs\2025-06-25T19_50_48_000Z-debug-0.log
+
+970@WIN-AQAS3HBME6H MINGW64 ~/PYTHON/insta_commerce (master)
+$ npm install react-image-zoom@^2.0.0
+npm error code ETARGET
+npm error notarget No matching version found for react-image-zoom@^2.0.0.
+npm error notarget In most cases you or one of your dependencies are requesting
+npm error notarget a package version that doesn't exist.
+npm error A complete log of this run can be found in: C:\Users\Administrator\AppData\Local\npm-cache\_logs\2025-06-25T19_51_07_718Z-debug-0.log

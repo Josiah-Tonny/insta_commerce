@@ -1,0 +1,6 @@
+<!-- This is a base64 encoded SVG that will be used as a logo -->
+<!-- You can replace this with your actual logo later -->
+<!-- For now, this is a simple shopping cart icon as a placeholder -->
+<svg width="200" height="200" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M7 22C5.9 22 5.01 21.1 5.01 20C5.01 18.9 5.9 18 7 18C8.1 18 9 18.9 9 20C9 21.1 8.1 22 7 22ZM17 22C15.9 22 15.01 21.1 15.01 20C15.01 18.9 15.9 18 17 18C18.1 18 19 18.9 19 20C19 21.1 18.1 22 17 22ZM16.54 7.23C16.29 6.71 15.79 6.36 15.2 6.36H10.05L9.72 5.28C9.58 4.82 9.17 4.5 8.69 4.5H5C4.45 4.5 4 4.95 4 5.5C4 6.05 4.45 6.5 5 6.5H8.03L10.38 14.22C10.52 14.69 10.93 15 11.41 15H16.5C16.92 15 17.3 14.76 17.47 14.39L19.47 9.89C19.73 9.31 19.54 8.6 19 8.2L18.28 7.6C18.1 7.45 17.84 7.3 17.54 7.23H16.54Z" fill="#4F46E5"/>
+</svg>
