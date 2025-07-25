@@ -34,7 +34,7 @@
     "clsx": "^2.1.1",
     "framer-motion": "^12.19.1",
     "html-to-image": "^1.11.13",
-    "lucide-react": "^0.523.0",
+    "lucide-react": "^0.525.0",
     "mock-socket": "^9.3.1",
     "react": "^18.2.0",
     "react-aria": "^3.41.1",
